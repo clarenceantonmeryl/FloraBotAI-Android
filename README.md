@@ -1,5 +1,16 @@
 # FloraBotAI-Android
 
-Watch the Video at https://bit.ly/florabotaivideo
+Report
+https://bit.ly/florabotaireport
 
-Download the Android App at https://github.com/clarenceantonmeryl/FloraBotAI-Android/blob/master/FloraBOT-AI.apk
+Video
+https://bit.ly/florabotaivideo
+
+Download Android App
+https://bit.ly/florabotaiapp
+
+Log Book
+https://bit.ly/florabotailogbook
+
+Risk Assessment
+https://bit.ly/florabotairisk
