@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--
+    <PreferenceCategory app:title="@string/messages_header">
+
+        <EditTextPreference
+            app:key="signature"
+            app:title="@string/signature_title"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:defaultValue="reply"
+            app:entries="@array/reply_entries"
+            app:entryValues="@array/reply_values"
+            app:key="reply"
+            app:title="@string/reply_title"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/sync_header">
+
+        <SwitchPreferenceCompat
+            app:key="sync"
+            app:title="@string/sync_title" />
+
+        <SwitchPreferenceCompat
+            app:dependency="sync"
+            app:key="attachment"
+            app:summaryOff="@string/attachment_summary_off"
+            app:summaryOn="@string/attachment_summary_on"
+            app:title="@string/attachment_title" />
+
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Preference category">
+
+        <MultiSelectListPreference
+            android:defaultValue="@array/alert_values"
+            android:entries="@array/alert_entries"
+            android:entryValues="@array/alert_values"
+            android:key="multi_select_list_preference_1"
+            android:title="Alerts" />
+    </PreferenceCategory>
+    -->
+    <PreferenceCategory android:title="Alerts">
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="alert_disease"
+            android:title="Disease" />
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="alert_fox"
+            android:title="Fox" />
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="alert_mold"
+            android:title="Mold" />
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="alert_pathology"
+            android:title="Pathology" />
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="alert_pest"
+            android:title="Pest" />
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="alert_renard"
+            android:title="Renard" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
