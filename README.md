@@ -27,7 +27,7 @@ https://bit.ly/florabotairisk
 
 
 <p align="center">
-  <img src="./Image/FloraBotAI-1.jpg" width="350" title="FloraBotAI" alt="FloraBotAI">
-  <img src="./Image/FloraBotAI-2.jpg" width="350" title="FloraBotAI" alt="FloraBotAI">
-  <img src="./Image/FloraBotAI-3.jpg" width="350" title="FloraBotAI" alt="FloraBotAI">
+  <img src="./Image/FloraBotAI-1.jpg" width="700" title="FloraBotAI" alt="FloraBotAI">
+  <img src="./Image/FloraBotAI-2.jpg" width="700" title="FloraBotAI" alt="FloraBotAI">
+  <img src="./Image/FloraBotAI-3.jpg" width="700" title="FloraBotAI" alt="FloraBotAI">
 </p>
